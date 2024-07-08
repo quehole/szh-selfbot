@@ -1,5 +1,5 @@
-## szh-selfbot.
-This project demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more.
+## SZH SELFBOT
+This is a project that demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more.
 
 
 # Setup Instructions:
