@@ -34,10 +34,12 @@ This project demonstrates the usage of a Discord selfbot using discord.js-selfbo
 - **status**: Changes your status.
 
 
-# 👨‍💻 - *Created by quehole*
 
 # I am not responsible for any harm or damage caused by the usage of this Discord selfbot.
 
 # Feel free to contribute to this project by submitting pull requests or reporting issues.
 
 # This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+# 👨‍💻 - *Created by quehole*
