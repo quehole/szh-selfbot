@@ -35,7 +35,7 @@ This is a project that demonstrates the usage of a Discord selfbot using discord
 
 
 
-## I am not responsible for any harm or damage caused by the usage of this Discord selfbot.
+## I am not responsible for any harm or damage caused by the usage of this Selfbot.
 
 ## Feel free to contribute to this project by submitting pull requests or reporting issues.
 
