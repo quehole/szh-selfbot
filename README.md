@@ -1,8 +1,8 @@
-# SZH SelfBot.
+## SZH SelfBot.
 This project demonstrates the usage of a Discord selfbot using discord.js-selfbot-v13 library. It includes various commands such as fetching cryptocurrency prices, checking user balances, sending messages with custom styles, and more.
 
 
-## Setup Instructions:
+# Setup Instructions:
 1. Clone the repository.
 2. Install the required dependencies using npm install.
 3. Update the config.js file with your Discord bot token and prefix.
@@ -35,11 +35,11 @@ This project demonstrates the usage of a Discord selfbot using discord.js-selfbo
 
 
 
-# I am not responsible for any harm or damage caused by the usage of this Discord selfbot.
+## I am not responsible for any harm or damage caused by the usage of this Discord selfbot.
 
-# Feel free to contribute to this project by submitting pull requests or reporting issues.
+## Feel free to contribute to this project by submitting pull requests or reporting issues.
 
-# This project is licensed under the MIT License. See the LICENSE file for details.
+## This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-# 👨‍💻 - *Created by quehole*
+### 👨‍💻 - *Created by quehole*
